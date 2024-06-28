@@ -1,2 +1,1 @@
-# jupyter
-python x jupyter を利用した数学の学習
+# python x jupyter を利用した数学の学習
